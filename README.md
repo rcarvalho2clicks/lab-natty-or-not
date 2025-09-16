@@ -78,7 +78,10 @@ Email: admin@lavema.com
 Senha: admin123
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Dashboard: Visão geral do sistema
+Clientes: Gerenciamento de clientes
+Ordens: Controle de ordens de serviço
+Relatórios: Análise de dados
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.

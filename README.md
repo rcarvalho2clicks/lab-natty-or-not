@@ -20,16 +20,62 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Sistema Web para Gestão de Lavanderia – MLAVE
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Sistema web completo para gerenciamento de uma lavanderia, permitindo o controle de clientes, ordens de serviço, status das lavagens, prazos de entrega e relatórios. Desenvolvido com foco na facilidade de uso e responsividade para atender às necessidades diárias da empresa MLAVE.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Front-end:
+
+React.js
+React Bootstrap
+React Router
+Axios
+React Icons
+Back-end:
+
+Node.js
+Express
+JWT (autenticação)
+Bcrypt (criptografia)
+Knex (query builder)
+Banco de Dados:
+
+SQLite
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Método rápido (recomendado)
+# Clone o repositório
+git clone <url-do-repositorio>
+cd lavanderia
+
+# Execute o script de inicialização
+chmod +x start.sh
+./start.sh
+Instalação manual
+Clone o repositório
+git clone <url-do-repositorio>
+cd lavanderia
+Instale as dependências do servidor
+cd server
+npm install
+Configure o banco de dados
+npm run migrate
+Instale as dependências do cliente
+cd ../client
+npm install
+Inicie o servidor
+# No diretório server
+npm run dev
+Inicie o cliente (em outro terminal)
+# No diretório client
+npm start
+🔑 Credenciais padrão
+Após a instalação, você pode acessar o sistema com as seguintes credenciais:
+
+Email: admin@lavema.com
+Senha: admin123
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto

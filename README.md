@@ -78,14 +78,13 @@ Email: admin@lavema.com
 Senha: admin123
 
 ## 🚀 Resultados
-Dashboard: Visão geral do sistema
-Clientes: Gerenciamento de clientes
-Ordens: Controle de ordens de serviço
-Relatórios: Análise de dados
+Dashboard: Visão geral do sistema - https://ibb.co/xqkV1mpF
+Clientes: Gerenciamento de clientes - https://ibb.co/qMNGpjbN
+Ordens: Controle de ordens de serviço - https://ibb.co/JWDh2GYL
+Relatórios: Análise de dados - https://ibb.co/39LMgT0Q
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Criar algo que pareça natural com IA é um desafio fascinante porque envolve entender e replicar a complexidade das interações humanas e do mundo real
 
 ### Exemplos e Insigths
 

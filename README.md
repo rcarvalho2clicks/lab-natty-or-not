@@ -74,7 +74,7 @@ npm start
 🔑 Credenciais padrão
 Após a instalação, você pode acessar o sistema com as seguintes credenciais:
 
-Email: admin@lavema.com
+Email: admin@mlave.com
 Senha: admin123
 
 ## 🚀 Resultados
